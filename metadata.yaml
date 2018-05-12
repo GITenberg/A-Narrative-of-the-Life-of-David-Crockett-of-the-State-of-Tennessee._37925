@@ -1,0 +1,32 @@
+_repo: A-Narrative-of-the-Life-of-David-Crockett-of-the-State-of-Tennessee._37925
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crockett, Davy
+    alias: Crockett, David
+    birthdate: 1786
+    deathdate: 1836
+    gutenberg_agent_id: '39135'
+    url: http://www.gutenberg.org/2009/agents/39135
+description: ''
+gutenberg_issued: '2011-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tennessee -- History'
+- !lcsh 'United States. Congress. House -- Biography'
+- !lcc 'F396'
+- !lcsh 'Creek War, 1813-1814'
+- !lcsh 'Pioneers -- Tennessee -- Biography'
+- !lcsh 'Legislators -- United States -- Biography'
+- !lcsh 'Crockett, Davy, 1786-1836'
+title: A Narrative of the Life of David Crockett, of the State of Tennessee.
+url: http://www.gutenberg.org/ebooks/37925
